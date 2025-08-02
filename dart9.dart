@@ -13,4 +13,7 @@ void printMsg(String name) {
 String getMsg(String name) {
    return "Hello2, $name";
 }
+int add(int a, int b){
+  return a = b;
+}
 
